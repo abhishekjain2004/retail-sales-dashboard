@@ -139,9 +139,9 @@ Sales LY = CALCULATE([Total Sales], SAMEPERIODLASTYEAR('calender Table'[Date]))
 
 ## 📸 Dashboard Screenshots
 
-> Take screenshots after opening in Power BI Desktop and add them here
 
-![Main Dashboard](images/dashboard_main.png)
+![Main Dashboard]<img width="1920" height="978" alt="Dashboard" src="https://github.com/user-attachments/assets/a90d4e17-e698-4d19-b411-9d0c6c79ca75" />
+
 
 ---
 
